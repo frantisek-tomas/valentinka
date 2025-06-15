@@ -1,1 +1,1 @@
-you can see the web site live on : https://frantisek-lucius-tomas.github.io/valentinka/
+you can see the web site live on : https://frantisek-tomas.github.io/valentinka/
